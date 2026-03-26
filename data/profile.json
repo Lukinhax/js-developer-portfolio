@@ -1,9 +1,9 @@
 {
-  "nome": "Lucas M Melo",
+  "name": "Lucas M Melo",
   "photo": "assets/img/minhaFoto.jpeg",
   "job": "Buscando um Estágio",
   "location": "Votuporanga - SP",
-  "telefone": "(21) 98033-2268",
+  "phone": "(21) 98033-2268",
   "email": "lucasmamelo@hotmail.com",
   "skills": {
     "hardSkills": [
