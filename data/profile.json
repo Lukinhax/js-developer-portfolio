@@ -26,10 +26,6 @@
       {
         "name": "PostgreSQL",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/refs/heads/main/data/imgs/postgresql.png"
-      },
-      {
-        "name": "MySQL",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/refs/heads/main/data/imgs/mysql.png"
       }
     ],
     "softSkills": [
@@ -41,18 +37,9 @@
     ]
   },
   "idiomas": [
-    {
-      "nome": "Português",
-      "nivel": "Nativo"
-    },
-    {
-      "nome": "Inglês",
-      "nivel": "Intermediário"
-    },
-    {
-      "nome": "Espanhol",
-      "nivel": "Básico"
-    }
+    "Português  (Nativo)",
+    "Inglês  (Intermediário - Fluente)",
+    "Espanhol  (Intermediario - Fluente)"
   ],
   "educacao": [
     {
