@@ -26,8 +26,7 @@
     margin-bottom: .5rem;
 }
 
-.portifolio li .h3
-.github::before{
+.portifolio li h3.github::before{
     content: "";
     display: inline-block;
     width: 1rem;
