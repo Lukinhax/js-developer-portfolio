@@ -43,17 +43,17 @@
   ],
   "portfolio": [
     {
-      "name": "Site de busca de informação sobre atleta e site para busca de formas de geração de energia renovavel (Alura)",
+      "name": "Sites de busca de atletas e site de busca de fontes de energia renovavel (Alura)",
       "url": "https://github.com/Lukinhax/Curso-Alura-Google-JavaScript.git",
       "github": true
     },
     {
-      "name": "Site para busca de informações sobre jogos usando a API do Google Gemini",
+      "name": "Site de busca de informações de jogos usando a API do Google Gemini",
       "url": "https://github.com/Lukinhax/NLW-Agents---Rocketseat.git",
       "github": true
     },
     {
-      "name": "Conjunto de projetos desenvolvidos durante o curso de HTML e CSS da Udemy",
+      "name": "Conjunto de projetos desenvolvidos no curso de HTML e CSS (Udemy)",
       "url": "https://github.com/Lukinhax/Curso-Udemy-HTML-CSS.git",
       "github": true
     }
