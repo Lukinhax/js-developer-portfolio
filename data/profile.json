@@ -58,15 +58,11 @@
       "github": true
     }
   ],
-  "experiencias": [
+  "professionalExperience": [
     {
-      "nome": "Education Tech Lead ",
-      "descricao": "",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "03/2021",
-        "fim": "Atualmente"
-      }
+      "name": "Em busca do meu primeiro emprego na area de TI",
+      "period": "",
+      "description": "Atualmente estou em busca do meu primeiro emprego na área de TI, focado em desenvolvimento web de software. " 
     }
   ]
 }
