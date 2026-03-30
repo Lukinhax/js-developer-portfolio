@@ -101,6 +101,12 @@ Se preferir, você também pode utilizar a extensão **Live Server** no VS Code 
 
 ---
 
+## 🔗 Acesse o Projeto
+
+👉 [Clique aqui para visualizar](https://lukinhax.github.io/js-developer-portfolio/)
+
+---
+
 ## 📈 Aprendizados com este Projeto
 
 Com o desenvolvimento deste portfólio, pude reforçar e evoluir habilidades importantes como:
